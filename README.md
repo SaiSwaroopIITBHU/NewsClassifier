@@ -31,7 +31,6 @@ After preprocessing, the **headline** and **content** were **merged** into a sin
 
 1. **Preprocessing**:  
    - Concatenated news headline and body.
-   - Cleaned and tokenized the text.
    
 2. **Feature Extraction**:  
    - Applied **TF-IDF Vectorization** to convert text into numerical features.
